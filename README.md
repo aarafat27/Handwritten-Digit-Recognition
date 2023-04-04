@@ -1,5 +1,6 @@
 # Handwritten Digit Recognition using Convolutional Neural Networks
 This project is a handwritten digit recognition system using Convolutional Neural Networks. The system can recognize digits from 0 to 9 with high accuracy. The project is implemented using Python programming language and several machine learning libraries.
+
 <img width="382" alt="Screenshot 2023-04-04 220123" src="https://user-images.githubusercontent.com/99079792/229850677-48e53b57-f173-4a1a-8fe0-6ef83f3d8e4d.png">
 
 # Dataset
