@@ -7,11 +7,11 @@ The MNIST dataset is used for this project. It is a widely used dataset for mach
 # Languages and Libraries
 The project is implemented using Python programming language and several machine learning libraries including:
 
-* Numpy
-* TensorFlow
-* Matplotlib
-* Tkinter
-* PIL
+ * Numpy
+ * TensorFlow
+ * Matplotlib
+ * Tkinter
+ * PIL
 
 #Graphical User Interface (GUI)
 A graphical user interface (GUI) is developed for this project to test the model with new images. The GUI is developed using Tkinter and PIL libraries. The user can select an image from the local machine and the model predicts the digit in the image.
