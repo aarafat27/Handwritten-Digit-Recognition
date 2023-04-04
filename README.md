@@ -14,8 +14,9 @@ The project is implemented using Python programming language and several machine
  * Tkinter
  * PIL
 
-#Graphical User Interface (GUI)
+# Graphical User Interface (GUI)
 A graphical user interface (GUI) is developed for this project to test the model with new images. The GUI is developed using Tkinter and PIL libraries. The user can select an image from the local machine and the model predicts the digit in the image.
+
 <img width="473" alt="Screenshot 2023-04-04 220320" src="https://user-images.githubusercontent.com/99079792/229851123-1c2d6e04-1f0e-4185-b353-20a79e3ca00f.png">
 
 Handwritten digit recognition is an essential task in the field of machine learning and computer vision. This project demonstrates the use of convolutional neural networks for handwritten digit recognition. The model achieves high accuracy on the MNIST dataset, and the GUI provides an easy way to test the model with new images.
